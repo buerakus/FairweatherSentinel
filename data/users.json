@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password_hash": "8c6976e5b5410415bde908bd4dee15dfb16c7a7a4f8b67e3cfa3f3c4a1e5c9f6",
+      "role": "admin"
+    },
+    {
+      "username": "analyst1",
+      "password_hash": "a57dfb2a327e3ac843faeaa17b8236b623fb54cc2aab7f8a4ebeeed0c4b6d9d2",
+      "role": "analyst"
+    },
+    {
+      "username": "itpro",
+      "password_hash": "38d962b53debe132917f70293ce31725cd878aa61d1b7cc2db62a0c4b43a3a12",
+      "role": "it_pro"
+    }
+  ]
+}
