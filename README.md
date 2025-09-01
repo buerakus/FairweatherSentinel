@@ -4,9 +4,13 @@ Fairweather Sentinel is a lightweight vulnerability assessment tool designed for
 
 ## Usage  
 
-### Prerequisites  
 - Python **3.9+**  
 - [Nmap](https://nmap.org/download.html) installed and added to system **PATH**  
 - Required Python libraries (install with):  
   ```bash
   pip install -r requirements.txt
+- Download and install CVEs Database from https://www.cve.org/downloads and unzip it into program folder
+- Run
+  ```bash
+  python main.py
+
